@@ -1,0 +1,11 @@
+.venv/
+.venv*/
+__pycache__/
+cifar_data/
+data/
+dataset/
+models/
+outputs/
+*.py[cod]
+*.pth
+test_image.jpg
